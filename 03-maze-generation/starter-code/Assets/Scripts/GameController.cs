@@ -58,7 +58,7 @@ public class GameController : MonoBehaviour
     // Handles the trigger event when the player reaches the treasure
     private void OnTreasureTrigger(GameObject trigger, GameObject other)
     { 
-        Debug.Log("You Won!");
+        Debug.Log("You Won! The monster is Gone");
         aIController.StopAI();
     }
 }

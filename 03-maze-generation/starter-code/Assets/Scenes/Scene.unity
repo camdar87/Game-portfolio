@@ -271,8 +271,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 526753307576256837, guid: bdecbf243845a8c45aff2aec3bf4ee58, type: 3}
   monsterPrefab: {fileID: 895211356916686346, guid: 1fa61affe9de3df4f8fee424c0b7d67b, type: 3}
-  rows: 15
-  cols: 15
+  rows: 17
+  cols: 17
 --- !u!114 &529368647
 MonoBehaviour:
   m_ObjectHideFlags: 0
